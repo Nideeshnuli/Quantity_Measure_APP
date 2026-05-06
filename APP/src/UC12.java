@@ -194,7 +194,7 @@ class Quantity<U extends IMeasurable> {
 
 // ---------------- MAIN APP ----------------
 
-public class UC12 {
+public class App {
 
     public static void main(String[] args) {
 

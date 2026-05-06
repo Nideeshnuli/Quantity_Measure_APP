@@ -139,7 +139,7 @@ class QuantityWeight {
 
 // ---------------- MAIN APP ----------------
 
-public class UC9 {
+public class UC10 {
 
     public static void main(String[] args) {
 
